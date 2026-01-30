@@ -4,7 +4,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>N Login Page | CodingNepal</title>
+    <title>N Login Page | CodingNetflix</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
@@ -23,7 +23,7 @@
           <input type="password" required />
           <label>Password</label>
         </div>
-        <button type="submit"> BYE  </button>
+        <button type="submit"> BYE  Bye</button>
         <div class="form-help">
           <div class="remember-me">
             <input type="checkbox" id="remember-me" />
