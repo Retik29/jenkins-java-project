@@ -4,7 +4,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>N Login Page | CodingNetflix</title>
+    <title>Pablo Yadav</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
@@ -32,9 +32,9 @@
           <a href="#">Need help?</a>
         </div>
       </form>
-      <p>New to Netflix? <a href="#">Lets join uxxp now</a></p>
+      <p>New to Netflix? <a href="#">Use NetMirror</a></p>
       <small>
-        This page is protected by Google reCAPTCHA to ensure you're not a bot.
+        This page is protected by Google reCAPTCHA to ensure you're a bot.
         <a href="#">Learn more.</a>
       </small>
     </div>
